@@ -1,0 +1,29 @@
+_repo: Journal-of-a-Voyage-across-the-Atlantic--13-With-Notes-on-Canada--amp--the-United-States-and-__13095
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, George
+    birthdate: 1806
+    deathdate: 1876
+    gutenberg_agent_id: '5433'
+    url: http://www.gutenberg.org/2009/agents/5433
+description: ''
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13095'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcc 'E151'
+- !lcsh 'United States -- Description and travel'
+- !lcsh 'Canada -- Description and travel'
+title: "Journal of a Voyage across the Atlantic\r\nWith Notes on Canada & the United\
+  \ States, and Return to Great Britain in 1844"
+url: http://www.gutenberg.org/ebooks/13095
