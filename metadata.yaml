@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5433'
     url: http://www.gutenberg.org/2009/agents/5433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13095#Journal-of-a-Voyage-across-the-Atlantic--13-With-Notes-on-Canada--amp--the-United-States-and-_
 gutenberg_issued: '2004-08-03'
 gutenberg_type: Text
 identifiers:
